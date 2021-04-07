@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "****************\r Notejam: Express\r ****************",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeoyelade19/Express_App_Notejam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeoyelade19/Express_App_Notejam/issues"
+  },
+  "homepage": "https://github.com/adeoyelade19/Express_App_Notejam#readme"
+}
